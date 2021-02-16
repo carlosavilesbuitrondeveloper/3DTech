@@ -20,7 +20,7 @@ import img from "../img/svg/box.svg";
 
 const content = {
 	title_01: 'Containers',
-	title_02: 'Coffee',
+	title_02: 'Clusters',
 	main_img: 'ship-containers.svg',
 	main_img_format: 'SVG'
 };
